@@ -1,0 +1,20 @@
+{
+    "name": "Leo NFT 2",
+    "symbol": "LEO",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EhLjpXbnV2DngKQfhKHTVAgUuty8jM6JiYQBN6HmLieQ",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "Mario", "family": "Anime"}
+  }
